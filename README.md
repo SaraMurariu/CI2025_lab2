@@ -13,12 +13,19 @@ It features:
 
 # EXAMPLE OUTPUT
 Running test: problem_g_100.npy
+
 Common tests -> negatives: False 
+
  zero diagonal: True 
+ 
  symmetric: True
+ 
 Evolving: 100%|██████████| 300/300 [00:01<00:00, 150.23it/s]
+
 Finished problem_g_100.npy 
+
 | Cities: 100 
+
 | Best cost: 4171.107
 
 # ACKNOWLEDGMENTS
